@@ -17,7 +17,7 @@ const milestones = [
     year: "2026",
     title: "The Wedding",
     description: "Today, we stand before our loved ones to unite our lives, honoring our heritage and our faith.",
-    image: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=1000&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1525257831700-183b9b8bf5c4?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ];
 

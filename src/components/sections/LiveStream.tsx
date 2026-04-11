@@ -12,7 +12,7 @@ export default function LiveStream() {
 
   useEffect(() => {
     // Set the date we're counting down to
-    const countDownDate = new Date("Oct 24, 2026 10:00:00").getTime();
+    const countDownDate = new Date("April 25, 2026 10:00:00").getTime();
 
     const timer = setInterval(() => {
       const now = new Date().getTime();

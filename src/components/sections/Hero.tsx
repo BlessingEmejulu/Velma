@@ -50,7 +50,7 @@ export default function Hero() {
           transition={{ duration: 1.2, delay: 0.5 }}
           className="text-6xl md:text-8xl lg:text-9xl text-ivory font-light leading-none mb-8 tracking-tight"
         >
-          Velma <span className="text-gold italic font-serif">&</span> Stephen
+          Velma <span className="text-gold italic font-serif">&</span> Stephan
         </motion.h1>
         
         <motion.div 

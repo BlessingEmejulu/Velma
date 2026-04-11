@@ -70,6 +70,18 @@ export default function EventDetails() {
                 <p className="text-ivory/60">Ago, Okota, Lagos, Nigeria</p>
               </div>
             </div>
+
+            <div className="flex items-start gap-6">
+              <div className="w-12 h-12 rounded-full border border-gold flex items-center justify-center shrink-0 text-gold">
+                <MapPin size={20} />
+              </div>
+              <div>
+                <h3 className="text-2xl text-gold mb-2">Reception</h3>
+                <p className="text-ivory/80 text-lg mb-2">At Blue Moon Hotel</p>
+                <p className="text-ivory/60">49 Samuel Ekowola Ago Palace Way</p>
+                <p className="text-ivory/60">Lagos, Nigeria</p>
+              </div>
+            </div>
           </motion.div>
 
           <motion.div 
