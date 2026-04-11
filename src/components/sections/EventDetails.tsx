@@ -3,7 +3,7 @@ import { MapPin, Calendar, Clock } from 'lucide-react';
 
 export default function EventDetails() {
   return (
-    <section className="py-32 bg-olive-dark text-ivory relative overflow-hidden">
+    <section id="event-details" className="py-32 bg-olive-dark text-ivory relative overflow-hidden">
       {/* Decorative background elements */}
       <div className="absolute top-0 left-0 w-full h-full opacity-5 pointer-events-none">
         <div className="absolute top-10 left-10 w-64 h-64 rounded-full border border-gold" />
