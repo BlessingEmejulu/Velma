@@ -10,7 +10,7 @@ export default function EventDetails() {
         <div className="absolute bottom-10 right-10 w-96 h-96 rounded-full border border-gold" />
       </div>
 
-      <div className="max-w-6xl mx-auto px-6 relative z-10">
+      <div className="invitation max-w-6xl mx-auto px-6 relative z-10">
         <div className="text-center mb-20">
           <motion.h2 
             initial={{ opacity: 0, y: 20 }}

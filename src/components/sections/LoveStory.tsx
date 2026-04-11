@@ -23,7 +23,7 @@ const milestones = [
 
 export default function LoveStory() {
   return (
-    <section id="invitation" className="py-32 bg-off-white relative">
+    <section id="invitations" className="py-32 bg-off-white relative">
       <div className="max-w-6xl mx-auto px-6 relative">
         <div className="text-center mb-24">
           <motion.h2 
