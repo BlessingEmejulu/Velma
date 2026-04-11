@@ -12,7 +12,7 @@ export default function Footer() {
           className="space-y-8"
         >
           <h2 className="text-3xl md:text-4xl font-serif text-gold mb-6">
-            Velma & Stephen
+            Velma & Stephan
           </h2>
           
           <p className="text-ivory/60 font-serif italic text-xl max-w-2xl mx-auto leading-relaxed">
