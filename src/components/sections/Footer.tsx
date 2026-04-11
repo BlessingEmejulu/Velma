@@ -24,7 +24,7 @@ export default function Footer() {
           </p>
 
           <div className="pt-12 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-ivory/40 uppercase tracking-wider">
-            <p>© 2026 Velma & Stephen. All rights reserved.</p>
+            <p>© 2026 Velma & Stephan. All rights reserved.</p>
             <p>April 25, 2026 • Lagos, Nigeria</p>
           </div>
         </motion.div>
