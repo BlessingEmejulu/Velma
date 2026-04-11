@@ -44,7 +44,7 @@ export default function EventDetails() {
               </div>
               <div>
                 <h3 className="text-2xl text-gold mb-2">When</h3>
-                <p className="text-ivory/80 text-lg">Saturday, October 24th, 2026</p>
+                <p className="text-ivory/80 text-lg">Saturday, April 25th, 2026</p>
               </div>
             </div>
 
@@ -54,7 +54,7 @@ export default function EventDetails() {
               </div>
               <div>
                 <h3 className="text-2xl text-gold mb-2">Time</h3>
-                <p className="text-ivory/80 text-lg">10:00 AM Prompt</p>
+                <p className="text-ivory/80 text-lg">12:00 PM Prompt</p>
               </div>
             </div>
 
